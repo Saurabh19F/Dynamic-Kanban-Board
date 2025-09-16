@@ -205,7 +205,7 @@ footer {
   color: var(--muted);
   font-size: 13px;
 }
-footer .credit {
+footer .footer {
   margin-top: 6px;
   font-size: 14px;
   color: var(--accent);
