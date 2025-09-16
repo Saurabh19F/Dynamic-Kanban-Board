@@ -36,17 +36,14 @@ It’s modular, scalable, and requires no backend — everything runs in the bro
 
 ## 📂 Project Structure
 
-├── index.html # App entry point
-├── style.css # Styles (Dark theme, responsive, drag highlights)
-├── app.js # Event handling & bootstrap
-├── renderer.js # Rendering logic (columns & cards)
-├── dnd.js # Drag & Drop binding
-├── state.js # In-memory state + pub/sub
-├── storage.js # LocalStorage wrapper
-├── util.js # DOM & helper utilities
-
-yaml
-Copy code
+index.html # App entry point
+style.css # Styles (Dark theme, responsive, drag highlights)
+app.js # Event handling & bootstrap
+renderer.js # Rendering logic (columns & cards)
+dnd.js # Drag & Drop binding
+state.js # In-memory state + pub/sub
+storage.js # LocalStorage wrapper
+util.js # DOM & helper utilities
 
 ---
 
