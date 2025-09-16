@@ -72,7 +72,20 @@ It’s modular, scalable, and requires no backend — everything runs in the bro
 
 ## 📸 Preview
 
-(Add a screenshot or GIF of the board here if you’d like)
+### 🏗️ Task Form + Columns
+![Task Form](https://raw.githubusercontent.com/Saurabh19F/Dynamic-Kanban-Board/main/screenshots/Screenshot%202025-09-16%20221622.png)
+
+### 🔄 Drag & Drop Example
+![Drag and Drop](https://raw.githubusercontent.com/Saurabh19F/Dynamic-Kanban-Board/main/screenshots/Screenshot%202025-09-16%20221729.png)
+
+### 📋 Multiple Tasks
+![Multiple Tasks](https://raw.githubusercontent.com/Saurabh19F/Dynamic-Kanban-Board/main/screenshots/Screenshot%202025-09-16%20221757.png)
+
+### ➕ Add Task Demo
+![Add Task](https://raw.githubusercontent.com/Saurabh19F/Dynamic-Kanban-Board/main/screenshots/Screenshot%202025-09-16%20221942.png)
+
+### 🔍 Label Filtering
+![Filter Labels](https://raw.githubusercontent.com/Saurabh19F/Dynamic-Kanban-Board/main/screenshots/Screenshot%202025-09-16%20222036.png)
 
 ---
 
